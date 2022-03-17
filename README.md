@@ -1,3 +1,7 @@
+Fork of mrd0x BITB technique. Will add Templates for popular services 
+
+Origional Readme below:
+
 # BITB
 Browser templates for Browser In The Browser (BITB) attack.
 
